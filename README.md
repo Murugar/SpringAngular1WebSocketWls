@@ -1,2 +1,2 @@
 # SpringAngularWebsocketWls
-Spring Boot Angular 1.x WebSocket WebLogic 12c
+Spring Boot Angular 1.x WebSocket Security WebLogic 12c
